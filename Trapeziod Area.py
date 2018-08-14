@@ -1,0 +1,5 @@
+a = float(input())
+b = float(input())
+h = float(input())
+total = ((a + b)*h/2)
+print(total)
